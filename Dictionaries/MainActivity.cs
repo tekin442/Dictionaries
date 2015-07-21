@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace Dictionaries
 {
-    [Activity(Label = "Dictionaries", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Ekonomi Terimleri", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
